@@ -56,7 +56,7 @@ else if(computerMove == 'nożyce' && playerMove == 'papier'){
 else if(computerMove == 'kamień' && playerMove == 'nozyce'){ 
     printMessage('Komputer wygrywa');
 }
-//Validate
+//validate
 else { 
     printMessage('Spróbuj ponownie: wybierz cyfrę 1 lub 2 lub 3.');
 }
