@@ -1,0 +1,42 @@
+.body {
+    background-color: beige;
+}
+.container {
+    margin: 0;
+    background-color: rgba(194, 142, 144, 0.356);
+    text-align: center;
+    padding: 50px 10px 200px 10px;
+    margin: 0 30% 0 30%;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 0px 0px 10px 10px;
+
+}
+button {
+    margin: 10px 5px 10px 5px;
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px 5px 5px 5px;
+    color:rgb(221, 174, 178);
+    font-size: 14px;
+    font-family: cursive;
+    background-color: rgba(75, 5, 11);
+}
+button .play-rock {
+    background-color: aqua;
+    color: green;
+}
+.navigation {
+    margin: 0 30% 0 30%;
+    padding: 0;
+    background-color: rgba(184, 74, 80, 0.63);
+    text-align: center;
+    color:rgb(68, 16, 20);
+    border-color: rgb(62, 62, 65);
+    cursor: pointer;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px 10px 0 0;
+}
